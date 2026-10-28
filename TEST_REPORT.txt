@@ -1,0 +1,5 @@
+JavaScript構文: PASS
+全13ステージ解法: PASS
+セーブ整合性単体テスト: PASS
+Chromiumブラウザ統合テスト: BLOCKED (管理者制限)
+iPhone実機テスト: 未実施
